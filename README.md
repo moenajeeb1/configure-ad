@@ -80,5 +80,5 @@ Let's log back into DC-1 in our admin account. Open up PowerShell_ise as an admi
 <img src="https://i.imgur.com/14WX5Om.jpg" height="60%" width="60%"/>
 </p>
 <img src="https://i.imgur.com/ptXfDSW.jpg" height="60%" width="60%"/>
-<p>We have logged into Client-1 as one of the ten thousand users created "bafi.dox" by PowerShell_ise and the scripts contents we pasted onto their. We logged into this account with this users credentials as a normal user.  </p>
+<p>We have logged into Client-1 as one of the ten thousand users created "bafi.dox" by PowerShell_ise and the scripts contents we pasted onto there. We logged into this account with this users credentials as a normal user.  </p>
 
